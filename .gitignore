@@ -1,0 +1,20 @@
+# R session files
+.Rhistory
+.Rdata
+.RData
+.Ruserdata
+
+# RStudio project files
+.Rproj.user/
+*.Rproj
+
+# Output files (generated, not tracked)
+output/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*~
+*.swp
